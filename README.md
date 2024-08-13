@@ -7,5 +7,6 @@ The definition (OLOG - i.e. ontology log) was developed in the context of the Wo
 
 - More information on the COST TEATIME action can be found here: <https://www.cost-teatime.org/>
 - The Home Cage Monitoring (HCM) definition is here: <https://www.cost-teatime.org/about/hcm-definition/>
-- the OLOG was developed from a method described in this publication: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024274>
+- The Diagram was made with Excalidraw: <https://excalidraw.com/>
+- The OLOG was developed from a method described in this publication: <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0024274>
 
