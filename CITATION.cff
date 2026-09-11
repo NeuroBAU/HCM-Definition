@@ -11,7 +11,7 @@ version: 1.0.0
 date-released: 2026-09-07
 repository-code: "https://github.com/NeuroBAU/HCM-Definition"
 url: "https://www.cost-teatime.org/about/hcm-definition/"
-license: CC-BY-NC-SA-4.0
+license: CC-BY-SA-4.0
 keywords:
   - home-cage monitoring
   - Olog

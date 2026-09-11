@@ -1,7 +1,7 @@
 # Home Cage Monitoring Definition Olog
 
 [![Release](https://img.shields.io/github/v/release/NeuroBAU/HCM-Definition)](https://github.com/NeuroBAU/HCM-Definition/releases/latest)
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE.md)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-blue.svg)](LICENSE.md)
 
 This repository preserves the **Home Cage Monitoring (HCM) Definition Olog**,
 a graphical conceptual model developed during Working Group 2 sessions of
@@ -53,6 +53,6 @@ can generate APA and BibTeX citations from that file.
 ## License
 
 The Olog and its repository materials are made available under the
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-license](LICENSE.md) (`CC-BY-NC-SA-4.0`).
+[Creative Commons Attribution-ShareAlike 4.0 International
+license](LICENSE.md) (`CC-BY-SA-4.0`).
 
