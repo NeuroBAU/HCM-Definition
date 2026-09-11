@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use the Home Cage Monitoring Definition Olog, please cite it using the metadata below."
+title: "Home Cage Monitoring Definition Olog"
+abstract: >-
+  A graphical conceptual model describing the principal entities and
+  relationships involved in home-cage monitoring, developed in the context of
+  Working Group 2 of COST Action TEATIME (CA20135).
+authors:
+  - name: "COST Action TEATIME Working Group 2"
+version: 1.0.0
+date-released: 2026-09-07
+repository-code: "https://github.com/NeuroBAU/HCM-Definition"
+url: "https://www.cost-teatime.org/about/hcm-definition/"
+license: CC-BY-NC-SA-4.0
+keywords:
+  - home-cage monitoring
+  - Olog
+  - knowledge representation
+  - laboratory animals
+  - behavioural monitoring
+  - preclinical research
